@@ -319,6 +319,11 @@ transform: scale(1.1);
   color: #051c2c;
   text-align: center;
   font-family:'Montserrat', sans-serif; 
+  white-space: nowrap;
+}
+.textchoice h3{
+  font-size: 3vw;
+
 }
 .buttonchoice{
   margin-bottom: 2vw;
@@ -522,22 +527,13 @@ margin-top: 5vw;
   font-family:'Montserrat', sans-serif;
 
 }
-@media screen and (max-width: 500px) { 
-  .categorie{
-    font-size: xx-small;
-  }
-  .categorie2{
-    font-size: 15px;
-  }
-  .PRIXTOTAL{
-    width: 130px;
-    height: 50px;
-  }
+@media screen and (max-width: 400px) { 
   .PRIXTOTAL p {
     font-size: x-small;
     padding: 10px;
     font-family:'Montserrat', sans-serif;
   }
+  
 }
 .PRIXTOTAL{
   font-size: x-large;
@@ -552,7 +548,7 @@ margin-top: 5vw;
     font-size: xx-small;
   }
   .PRIXTOTAL p{
-    font-size: small;
+    font-size: x-small;
     height: 58px;
 
   }
