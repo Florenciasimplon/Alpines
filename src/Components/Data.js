@@ -280,7 +280,7 @@ const DATA = {
       },
       2: {
         id: 2,
-        name: "Repose-pieds passager en aluminium",
+        name: "Repose-pieds passager aluminium",
         picture:
           "images/configurateur/equipements/categories/design/repose-pied-alu.jpg",
         price: "96",
