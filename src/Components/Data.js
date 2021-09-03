@@ -319,28 +319,28 @@ const DATA = {
     confort: {
       1: {
         id: 5,
-        name: "Retroviseur intérieur électrochrome",
+        name: "Retroviseur int électrochrome",
       
       picture:"images/configurateur/equipements/categories/confort/retro-int-electrochrome.jpg",
         price: 0,
       },
       2: {
         id: 6,
-        name: "Régulateur / limiteur de vitesse",
+        name: "Régulateur & limiteur de vitesse",
         picture:
           "images/configurateur/equipements/categories/confort/regul-limit-vitesse.jpg",
         price: 0,
       },
       3: {
         id: 7,
-        name: "Rétroviseurs ext. chauf. rabattables élec",
+        name: "Rétroviseurs ext. chauf.élec",
         picture:
           "images/configurateur/equipements/categories/confort/retro-ext-chaffant.jpg",
         price: 504,
       },
       4: {
         id: 8,
-        name: "Pack de rangement",
+        name: "Alpine Pack de rangement",
         picture:
           "images/configurateur/equipements/categories/confort/pack-rangement.jpg",
         price: 504,
@@ -356,14 +356,14 @@ const DATA = {
       },
       2: {
         id: 9,
-        name: "Aide au stationnement AV et AR",
+        name: "Aide au stationnement AV/AR",
         picture:
           "images/configurateur/equipements/categories/conduite/aide-stationnement-av-ar.jpg",
         price: 750,
       },
       3: {
         id: 9,
-        name: "Aide au stationnement AV AR et caméra de recul",
+        name: "Aide au stationnement AV/AR camérarecul",
         picture:
           "images/configurateur/equipements/categories/conduite/camera-recul.jpg",
         price: 1200,
@@ -386,14 +386,14 @@ const DATA = {
       },
       2: {
         id: 12,
-        name: "Airbags frontaux conducteur et passager",
+        name: "Airbags frontaux conducteur/passager",
         picture:
           "images/configurateur/equipements/categories/securite/airbag.jpg",
         price: 0,
       },
       3: {
         id: 11,
-        name: "Système de freinage Haute-Perf 320mm",
+        name: "freinage Haute-Perf 320mm",
         picture:
           "images/configurateur/equipements/categories/securite/freinage-haute-perf.jpg",
         price: 1000,
@@ -402,21 +402,21 @@ const DATA = {
     perso_extérieure: {
       1: {
         id: 13,
-        name: "Etriers de frein couleur Gris Anthracite",
+        name: "Etriers de frein Gris Anthracite",
         picture:
           "images/configurateur/equipements/categories/personnalisation exterieure/etrier-gris.jpg",
         price: 0,
       },
       2: {
         id: 13,
-        name: " Etriers de frein couleur Bleu Alpine",
+        name: " Etriers de frein Bleu Alpine",
         picture:
           "images/configurateur/equipements/categories/personnalisation exterieure/etrier-bleu.jpg",
         price: 384,
       },
       3: {
         id: 14,
-        name: "Logo Alpine sur les ailes avant",
+        name: "Logo Alpine ailes avant",
         picture:
           "images/configurateur/equipements/categories/personnalisation exterieure/logo-alpine.jpg",
         price: 120,
@@ -439,7 +439,7 @@ const DATA = {
       },
       3: {
         id: 17,
-        name: "Logo au centre du volant en Bleu Alpine",
+        name: "Logo volant Bleu Alpine",
         picture:
           "images/configurateur/equipements/categories/personnalisation interieure/logo-volant.jpg",
         price: 84,
@@ -457,21 +457,21 @@ const DATA = {
     Transport_et_protection: { 
       1: {
         id:1,
-        name: "Extincteur 1kg avec manomètre",
+        name: "Extincteur 1kg",
         picture:
           "images/configurateur/accessoires/transport et protection/extincteur.jpg",
         price: 22,
       },
       2: {
         id:2,
-        name: "Chaine à neige Premium Grip",
+        name: "Chaine Premium Grip",
         picture:
           "images/configurateur/accessoires/transport et protection/chaaine-neige.jpg",
         price: 336,
       },
       3: {
         id:3,
-        name: "Alarme",
+        name: "Alpine Alarme",
         picture:
           "images/configurateur/accessoires/transport et protection/alarme.jpg",
         price: 543,
@@ -510,7 +510,7 @@ const DATA = {
       },
       2: {
         id:8,
-        name: "Support smartphone magnétique - Fixation sur tableau de bord",
+        name: "Support smartphone magnétique",
         picture:
           "images/configurateur/accessoires/multimedia/support-smartphone.jpg",
         price: 21,
