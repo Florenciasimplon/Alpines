@@ -138,7 +138,7 @@
 .videocars{
   width: 800px;
 }
-@media screen and (max-width: 795px) { 
+@media screen and (max-width: 950px) { 
   .moteur h1{
    font-size: medium;
   }
@@ -334,6 +334,7 @@ transform: scale(1.1);
   }
 }
 
+
 /**********FIN RECAP PRICE************/
 /**********RECAPITULATIF************/
 #ficherecap{
@@ -466,11 +467,12 @@ margin-top: 5vw;
 
   }
 }
-@media screen and (max-width: 380px) { 
+@media screen and (max-width: 395px) { 
 
   #suivant{
     font-size: xx-small;
     font-family:'Montserrat', sans-serif;
+    width: 90px;
 
   }
   .card-title.text-white{
@@ -486,10 +488,13 @@ margin-top: 5vw;
       font-size: xx-small;
     }
     .titlecolors.card-title.h5{
-      font-size: small;
+      font-size: x-small;
     }
     .col-sm-6.textchoice h3{
       font-size: small;
+    }
+    .titlecolors.card-text{
+      font-size: x-small;
     }
   }
 
@@ -539,7 +544,7 @@ margin-top: 5vw;
   font-family:'Montserrat', sans-serif;
 
 }
-@media screen and (max-width: 605px) { 
+@media screen and (max-width: 592px) { 
   .card-title.text-white{
     font-size: xx-small;
   }
